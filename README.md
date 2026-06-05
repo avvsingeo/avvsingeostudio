@@ -11,7 +11,7 @@ Available on Google Play:
 https://play.google.com/store/apps/details?id=com.avvsingeo.oneeleven
 
 ### 🪞 Merge Mirror Numbers
-Flip. Merge. Reach 73.
+Flip. Merge. Reach equal numbers on each side.
 
 Coming soon.
 
