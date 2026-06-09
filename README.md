@@ -10,7 +10,7 @@ One tap. One moment. Everyone fails.
 Available on Google Play:
 https://play.google.com/store/apps/details?id=com.avvsingeo.oneeleven
 
-### 🪞 Merge Mirror Numbers
+### 🪞 SideMatch
 Flip. Merge. Reach equal numbers on each side.
 
 Coming soon.
